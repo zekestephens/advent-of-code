@@ -1,0 +1,17 @@
+# -*- conf-unix -*-
+# Apple junk
+.DS_Store
+
+# input files
+input*
+sample*
+
+# jupyter
+.ipynb_checkpoints/
+.virtual_documents/
+
+# compilation artifacts
+.cache/
+
+# APL
+.apl.history

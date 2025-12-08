@@ -1,0 +1,22 @@
+* 2021
+I solved most of these in a Jupyter notebook environment initially. I made a few changes to ensure the solutions still run as python scripts (adding =print= mostly). Otherwise, the code is as I wrote it in 2021.
+
+#+begin_src fundamental
+        --------Part 1--------   --------Part 2--------
+  Day       Time   Rank  Score       Time   Rank  Score
+   15   19:49:10  26138      0   21:13:37  22613      0
+   14   14:28:19  32407      0       >24h  32441      0
+   13   08:57:34  22904      0   13:13:48  27209      0
+   12   00:51:00   4445      0          -      -      -
+   11   20:10:50  34469      0   20:19:15  34240      0
+   10   15:12:47  38895      0   15:31:09  37149      0
+    9   11:54:25  38117      0   12:22:50  28541      0
+    8   21:01:14  52083      0       >24h  41113      0
+    7       >24h  63096      0       >24h  61440      0
+    6       >24h  68308      0       >24h  63321      0
+    5       >24h  64184      0       >24h  61368      0
+    4       >24h  70399      0       >24h  71124      0
+    3   12:48:05  72645      0       >24h  87933      0
+    2   13:53:00  82662      0   13:56:37  78424      0
+    1   08:08:57  46876      0   12:50:20  61418      0
+#+end_src
