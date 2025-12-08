@@ -1,0 +1,5 @@
+* Advent of Code
+
+These are my solutions to the  [[https://adventofcode.com][Advent of Code]] puzzles by Eric Wastl. If you have the required interpreters installed, running a solution can be easy as =./build.py 2025/08=.
+
+Solutions are published in a “works on my machine” state. Input should be saved in a text file in the same directory as the solution script, either =input.txt= or =input= usually.
